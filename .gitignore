@@ -1,0 +1,9 @@
+.DS_Store
+docs/_build
+build/docs
+build/demo
+.idea/
+__pycache__
+*.swp
+node_modules
+.project
